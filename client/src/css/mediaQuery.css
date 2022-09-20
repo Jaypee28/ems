@@ -1,0 +1,47 @@
+@media only screen and (max-width: 441px) {
+  .attendance-profile {
+    font-size: 16px!important;
+  }
+}
+
+@media only screen and (max-width: 765px) {
+  .navbar-link {
+    display: none;
+  }
+}
+
+  @media only screen and (max-width: 765px) {
+  .box-container {
+      width: 100%!important;
+  }
+  .login-page {
+      margin: 0px -36px!important;
+      margin-top: -15%!important;
+  }
+}
+
+@media only screen and (max-width: 514px) {
+  .edit-add-btn {
+    font-size: 14px!important;
+  }
+  .links{
+    display: none!important;
+  }
+  .title-page-h{
+    font-size: 22px!important;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .vl{
+    border-right: none!important;
+    border-bottom: 2px dashed white;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  .profile-info{
+    font-size: 14px;
+  }
+}

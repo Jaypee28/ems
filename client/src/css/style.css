@@ -1,0 +1,250 @@
+main{
+    background-color: #23272B!important;
+    font-family: Ubuntu, sans-serif;
+    padding-top: 90px;
+    padding-bottom: 110px;
+    padding-left: 100px;
+    padding-right: 37px;
+    color: white;
+    height: 100%;
+}
+
+.color-blue{
+    background-color: #01D2FE!important;
+}
+
+.color-blue-text{
+    color: #01D2FE!important;
+}
+
+.hrs-navbar{
+    background-color: #16191C;
+    padding: 0% 2%;
+    position: relative;
+}
+
+.sup-logo-text{
+    font-size: 16px;
+}
+
+.links{
+    margin-left: -15px;
+}
+
+.links a{
+    color: white;
+}
+
+.hrs-input{
+    height: 100%;
+    background-color: #2e3439!important;
+    color: white;
+    border: none;
+}
+
+.form-control.hrs-input{
+    background-color: #ffffff66;
+    border: none;
+    color: white;
+}
+
+.form-control.hrs-input::placeholder{
+    color: #c6c6c6;
+}
+
+.browser-default.custom-select.hrs-input{
+    background-color: #ffffff66;
+    border: none;
+    color: #c6c6c6;
+}
+
+.search-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #01D2FE!important;
+}
+
+.attendance-table{
+    background-color: #16191c;
+}
+
+.sidebar-link{
+    color: white;
+}
+
+.sidebar-link:hover{
+    color: #16191c;
+}
+
+.left-side-box{
+    border: 2px solid #f0f0f0;
+}
+
+.right-side-box{
+    border: 2px solid  #f0f0f0;
+}
+
+.center-box{
+    border: 2px solid  #f0f0f0;
+}
+
+.time-sheet-bg{
+    border-radius: 5px;
+    height: auto;
+    background-color: #f0f0f0;
+    font-size: 12px;
+}
+
+.td-name{
+    width: 150px;
+    display: inline-block;
+}
+
+
+.box-container{
+    background-color: #16191C;
+    height: auto;
+    width: auto;
+    border: 1px solid #2e3439;
+}
+
+.box-outline-in{
+    height: auto;
+    border: 1px solid #2e3439;
+}
+
+.attendance-info{
+    border-radius: 100%;
+    border: solid 5px grey;
+    color: grey;
+    font-weight: bold;
+    font-size: 16px;
+    height: 150px;
+    width: 150px;;
+}
+
+.attendance-btn{
+   border-radius: 50px;
+   max-width: 200px;
+   font-size: 18px;
+   text-transform: capitalize;
+   padding: 2% 50px;
+}
+
+.hrs-input{
+    height: 100%;
+    background-color: #2e3439!important;
+    color: white;
+    border: none;
+}
+
+.search-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #01D2FE!important;;
+}
+
+.login-page{
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+    padding-right: 65px!important;
+    padding-left: 0px!important;
+    height: 100vh;
+    align-items: center;
+}
+
+.login-btn{
+    height: 46px;
+    width: 100%;
+    text-align: center;
+    background-color: #01D2FE;
+}
+
+.action-icon-edit{
+    color: #01D2FE;
+    font-size: 25px;
+}
+
+.action-icon-delete{
+    color: red;
+    font-size: 25px;
+}
+
+.action-icon-info{
+    color: grey;
+    font-size: 25px;
+}
+
+.action-icon-info:hover{
+    color: #01D2FE!important;
+    font-size: 25px;
+}
+
+.edit-add-btn{
+   background-color: #01d2fe!important;
+   border-radius: 50px;
+   max-width: 300px;
+   font-size: 16px;
+   text-transform: capitalize;
+   padding: 6px 12px;
+}
+.hover-table:hover{
+    color: #01d2fe!important;
+}
+
+.profile-picture{
+    border-radius: 250px;
+}
+
+.react-calendar-timeline .rct-dateHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    border-bottom: 1px solid #bbb;
+    cursor: pointer;
+    font-size: 14px;
+    background-color: #c52020!important;
+    border-left: 2px solid #bbb;
+}
+
+.list-grid:hover{
+    color: grey;
+    cursor: pointer;
+}
+
+.vl{
+    border-right: 2px dashed white;
+    height: auto;
+}
+
+.edit-icon{
+    color: white;
+    font-size: 22px;
+}
+
+.edit-icon:hover{
+    color: #01d2fe;
+    font-weight: bold;
+}
+
+.profile-info li .text{
+    display: block;
+    overflow: hidden;
+}
+
+.profile-info li .title{
+    width: 50%;
+}
+
+.active-color{
+    color: #209D45;
+}
+
+.inactive-color{
+    color: red!important;
+}
+
+.project-list a:hover{
+    color: #01d2fe!important;
+}
